@@ -1,0 +1,5 @@
+## se tienen 3 archivos maestros tipo json
+
+el archivo de productos tiene: codigo del producto; descripcion del producto; valor unitario del producto 
+el archivo de clientes tiene: codigo del cliente; nombre del cliente; telefono
+el archivo de ventas tiene: codigo de la factura; fecha separa por ";" cada dato de la misma; codigo del cliente (mirar archivo cliente); codigo del producto(mirar archivo producto); unidad del producto; valor total; Valor factura (sumarle el iva del producto)
